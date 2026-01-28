@@ -7,7 +7,7 @@
 - 🌱 **I’m currently learning ...**</br>
   AI and English for the IELTS exam...
 - ⚡ **Fun fact: ...**</br>
-  I'm a fan of tennis
+  I like watching tennis games
   
 
 <h2 align="center">Languages and Others</h2>
