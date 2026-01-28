@@ -1,6 +1,6 @@
 <h2 align="center">About me</h2>
 
-<img src="https://www.animatedimages.org/data/media/172/animated-tennis-image-0021.gif" alt="side Image" align="right" width="150" height="150" />
+<img src="https://www.animatedimages.org/data/media/172/animated-tennis-image-0021.gif" alt="side Image" align="right" width="200" height="150" />
 
 - 🔭 **I’m currently working on ...**</br>
   AI tools for disital transformation
