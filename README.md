@@ -1,4 +1,4 @@
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 
 <img src="https://www.animatedimages.org/data/media/172/animated-tennis-image-0021.gif" alt="side Image" align="right" width="200" height="150" />
 
