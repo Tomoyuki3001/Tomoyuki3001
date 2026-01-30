@@ -22,7 +22,3 @@
 <code><img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/></code>
 <code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></code>
 </p>
-
-</br>
-<h2 align="center">Github Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoyuki3001&theme=radical&line_height=27&hide=html,css" alt="Tomo's Github Stats" /></p>
