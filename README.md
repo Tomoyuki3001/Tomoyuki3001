@@ -25,4 +25,4 @@
 
 </br>
 <h2 align="center">Github Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoyuki3001&theme=radical&line_height=27&hide=html,css, scss" alt="Tomo's Github Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoyuki3001&theme=radical&line_height=27&hide=html,css,scss" alt="Tomo's Github Stats" /></p>
